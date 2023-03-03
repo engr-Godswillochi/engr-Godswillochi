@@ -1,4 +1,4 @@
-<img alt="hi" src="https://www.charterglobal.com/wp-content/uploads/2019/01/o1920108014140002018.gifhttps://www.charterglobal.com/wp-content/uploads/2019/01/o1920108014140002018.gif">
+<img alt="hi" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 <h1 align="center">Hi 👋, I'm Godswill</h1>
 <h3 align="center">A passionate computer science student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engr-godswill&label=Profile%20views&color=0e75b6&style=flat" alt="engr-godswill" /> </p>
