@@ -1,4 +1,4 @@
-(https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
+[(https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)]
 <h1 align="center">Hi 👋, I'm Godswill</h1>
 <h3 align="center">A computer science student from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
