@@ -28,5 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-godswillochi&show_icons=true&locale=en" alt="engr-godswillochi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-godswillochi&" alt="engr-godswillochi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=engr-godswillochi&" alt="engr-godswillochi" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engr-GodswillOchi)](https://git.io/streak-stats)
 
