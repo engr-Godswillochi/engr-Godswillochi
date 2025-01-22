@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-godswillochi&show_icons=true&locale=en" alt="engr-godswillochi" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=engr-Godswillochi&theme=default&hide_border=true" alt="engr-GodswillOchi's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=engr-godswillochi&theme=default&hide_border=true" alt="engr-GodswillOchi's GitHub Stats" />
 
