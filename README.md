@@ -5,9 +5,9 @@
 <img align="right" alt="coding" width="500" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 <p align="left"> <a href="https://twitter.com/goodies_art" target="blank"><img src="https://img.shields.io/twitter/follow/goodies_art?logo=twitter&style=for-the-badge" alt="goodies_art" /></a> </p>
 
-- 🌱 I’m currently learning **c#, c++, cyber security and Data Science**
+- 🌱 I’m currently learning **c#, c++, Go, Rust and Data Science**
 
-- 💬 Ask me about **Game development, Web Development, Data Science, cyber security**
+- 💬 Ask me about **Web Development, Data Science, cyber security**
 
 - 📫 How to reach me **ochigodswill@gmail.com**
 
