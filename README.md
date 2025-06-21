@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/goodies_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodies_art" height="30" width="40" /></a>
+<a href="https://twitter.com/dcyberdude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodies_art" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/godswill-ochi-3304ba248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/godswill-ochi-3304ba248" height="30" width="40" /></a>
 <a href="https://www.facebook.com/godswill.ochi.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/godswill.ochi.5" height="30" width="40" /></a>
 <a href="https://www.instagram.com/godswill.ochi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/godswill.ochi/" height="30" width="40" /></a>
