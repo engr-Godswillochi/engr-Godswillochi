@@ -1,5 +1,5 @@
 <h1 align="center">GODSWILL OCHI</h1>
-<h6 align="center">Software Developer | Backend • Systems • Game • Frontend</h6>
+<h6 align="center">Software Engineer | Backend • Systems • Game • Frontend</h6>
 
 ###
 
