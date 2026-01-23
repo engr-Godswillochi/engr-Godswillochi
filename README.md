@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Here’s a snapshot of how I’m building my skills and what I can help with:<br>💻 Backend Development: APIs, architecture design, database logic<br>🛠️ Systems & Game Dev: Working with Unity, exploring cloud infrastructure<br>📬 Team Collaboration: Open to contributing to projects + connecting with developers<br>📚 Always Learning: Kubernetes, game systems, scalable services</p>
+<p align="left">Here’s a snapshot of how I’m building my skills and what I can help with:<br>💻 <b> Backend Development</b>: APIs, architecture design, database logic<br>🛠️ <b>Systems & Game Dev</b>: Working with Unity, exploring cloud infrastructure<br>📬 <b>Team Collaboration</b>: Open to contributing to projects + connecting with developers<br>📚 <b>Always Learning</b>: Kubernetes, game systems, scalable services</p>
 
 ###
 
