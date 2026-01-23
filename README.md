@@ -1,9 +1,7 @@
 <img alt="hi" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 <h1 align="center">Hi 👋, I'm Godswill</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engr-godswillochi&label=Profile%20views&color=0e75b6&style=flat" alt="engr-godswillochi" /> </p>
 <img align="right" alt="coding" width="500" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
-<p align="left"> <a href="https://twitter.com/goodies_art" target="blank"><img src="https://img.shields.io/twitter/follow/goodies_art?logo=twitter&style=for-the-badge" alt="goodies_art" /></a> </p>
 
 - 🌱 I’m currently learning **C#, Unity Game Engine, Kubernetes**
 
