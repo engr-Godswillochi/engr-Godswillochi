@@ -103,9 +103,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
-<h3 align="left">🔥   My Contributions :</h3>
+<!-- <h3 align="left">🔥   My Contributions :</h3>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engr-Godswillochi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
